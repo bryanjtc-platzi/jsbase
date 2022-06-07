@@ -10,6 +10,6 @@
   "author": "Bryan <bryan.thomas25000@icloud.com>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "28.1.0"
+    "jest": "28.1.1"
   }
 }
